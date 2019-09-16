@@ -1,4 +1,4 @@
-#  Streamr Integeration library for Apache FLink
+#  Streamr Integeration library for Apache Flink
 ## How to use
 
 Add this to your pom-xml file:
