@@ -8,6 +8,11 @@
     <artifactId>streamr_flink</artifactId>
     <version>0.1</version>
 
+    <name>Streamrflink</name>
+    <description>A Streamr integration library for Apache Flink</description>
+    <url>https://github.com/streamr-dev/streamr-flink</url>
+
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <flink.version>1.8.0</flink.version>
